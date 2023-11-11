@@ -4,6 +4,8 @@ The Bank Loan Dashboard project was designed to monitor, assess, and provide ins
 
 ## Dashboards
 ### Dashboard 1: Summary
+![image](https://github.com/JAISON14/Bank-Loan-Dashboard-Project/assets/24632348/73c6c3bf-9e52-446e-aca2-38b81e957c52)
+
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
 
 Total Loan Applications (MTD and MoM)
@@ -14,6 +16,8 @@ Average Debt-to-Income Ratio (DTI) (MTD and MoM)
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
 
 ### Dashboard 2: Overview
+![image](https://github.com/JAISON14/Bank-Loan-Dashboard-Project/assets/24632348/fa9db013-ae8a-47aa-9215-c5fef0141f31)
+
 The Overview Dashboard visually represents various loan-related metrics through different chart types:
 
 Monthly Trends by Issue Date (Line Chart)
@@ -25,6 +29,8 @@ Home Ownership Analysis (Tree Map)
 These visualizations aid in identifying trends, seasonal patterns, and the distribution of loans across various categories.
 
 ### Dashboard 3: Details
+![image](https://github.com/JAISON14/Bank-Loan-Dashboard-Project/assets/24632348/c4fdb1e9-9c5d-4b00-84f7-bd319e909b1d)
+
 The Details Dashboard offers a detailed view of the loan data, providing a comprehensive and user-friendly interface for accessing vital loan metrics, borrower profiles, and performance data.
 
 ### Excel Implementation
