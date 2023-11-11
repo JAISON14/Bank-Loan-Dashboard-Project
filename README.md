@@ -8,11 +8,11 @@ The Bank Loan Dashboard project was designed to monitor, assess, and provide ins
 
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
 
-Total Loan Applications (MTD and MoM)
-Total Funded Amount (MTD and MoM)
-Total Amount Received (MTD and MoM)
-Average Interest Rate (MTD and MoM)
-Average Debt-to-Income Ratio (DTI) (MTD and MoM)
+* Total Loan Applications (MTD and MoM)
+* Total Funded Amount (MTD and MoM)
+* Total Amount Received (MTD and MoM)
+* Average Interest Rate (MTD and MoM)
+* Average Debt-to-Income Ratio (DTI) (MTD and MoM)
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
 
 ### Dashboard 2: Overview
@@ -20,12 +20,12 @@ Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specif
 
 The Overview Dashboard visually represents various loan-related metrics through different chart types:
 
-Monthly Trends by Issue Date (Line Chart)
-Regional Analysis by State (Filled Map)
-Loan Term Analysis (Donut Chart)
-Employment Length Analysis (Bar Chart)
-Loan Purpose Breakdown (Bar Chart)
-Home Ownership Analysis (Tree Map)
+* Monthly Trends by Issue Date (Line Chart)
+* Regional Analysis by State (Filled Map)
+* Loan Term Analysis (Donut Chart)
+* Employment Length Analysis (Bar Chart)
+* Loan Purpose Breakdown (Bar Chart)
+* Home Ownership Analysis (Tree Map)
 These visualizations aid in identifying trends, seasonal patterns, and the distribution of loans across various categories.
 
 ### Dashboard 3: Details
