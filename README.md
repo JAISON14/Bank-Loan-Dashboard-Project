@@ -13,6 +13,7 @@ The Summary Dashboard captures key loan-related metrics and their changes over t
 * Total Amount Received (MTD and MoM)
 * Average Interest Rate (MTD and MoM)
 * Average Debt-to-Income Ratio (DTI) (MTD and MoM)
+
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
 
 ### Dashboard 2: Overview
@@ -26,6 +27,7 @@ The Overview Dashboard visually represents various loan-related metrics through 
 * Employment Length Analysis (Bar Chart)
 * Loan Purpose Breakdown (Bar Chart)
 * Home Ownership Analysis (Tree Map)
+
 These visualizations aid in identifying trends, seasonal patterns, and the distribution of loans across various categories.
 
 ### Dashboard 3: Details
@@ -39,22 +41,23 @@ In addition to PowerBI, the dashboards were also constructed in Excel to provide
 ### Data Fields and Usage
 The data utilized in the dashboards comprise several fields, each serving a specific purpose in loan management and risk assessment:
 
-Loan ID: Unique identifier for loans.
-Address State: Borrower location for regional analysis.
-Employment Length: Indicates employment stability.
-Employee Title: Job title for income source verification.
-Grade/Sub Grade: Creditworthiness and risk classification.
-Home Ownership: Housing status for financial stability assessment.
-Issue Date: Loan origination date.
-Loan Status: Current state of the loan for performance tracking.
-Purpose: Loan reason for segmentation and customization.
-Term: Loan duration.
-Verification Status: Status of financial information verification.
-Annual Income: Yearly earnings for creditworthiness.
-DTI: Debt burden relative to income.
-Instalment: Monthly repayment amount.
-Interest Rate: Cost of borrowing.
-Loan Amount: Principal amount borrowed.
+* Loan ID: Unique identifier for loans.
+* Address State: Borrower location for regional analysis.
+* Employment Length: Indicates employment stability.
+* Employee Title: Job title for income source verification.
+* Grade/Sub Grade: Creditworthiness and risk classification.
+* Home Ownership: Housing status for financial stability assessment.
+* Issue Date: Loan origination date.
+* Loan Status: Current state of the loan for performance tracking.
+* Purpose: Loan reason for segmentation and customization.
+* Term: Loan duration.
+* Verification Status: Status of financial information verification.
+* Annual Income: Yearly earnings for creditworthiness.
+* DTI: Debt burden relative to income.
+* Instalment: Monthly repayment amount.
+* Interest Rate: Cost of borrowing.
+* Loan Amount: Principal amount borrowed.
+* 
 Each field plays a crucial role in managing loans, assessing borrower risk, structuring loan terms, and making informed lending decisions.
 
 ## Implementation
