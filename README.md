@@ -1,6 +1,7 @@
 # Bank-Loan-Dashboard-Project
 ## Overview
 The Bank Loan Dashboard project was designed to monitor, assess, and provide insights into the bank's lending activities and performance. The dashboards created in PowerBI and Excel serve to enhance data-driven decision-making, allowing for strategic planning in the lending operations of the bank.
+
 Link for the PowerBI Dashboard: https://www.novypro.com/project/bank-loan-dashboard 
 
 ## Dashboards
