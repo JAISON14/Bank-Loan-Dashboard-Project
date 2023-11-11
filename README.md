@@ -57,7 +57,7 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 * Instalment: Monthly repayment amount.
 * Interest Rate: Cost of borrowing.
 * Loan Amount: Principal amount borrowed.
-* 
+
 Each field plays a crucial role in managing loans, assessing borrower risk, structuring loan terms, and making informed lending decisions.
 
 ## Implementation
